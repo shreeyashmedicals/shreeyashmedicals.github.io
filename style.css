@@ -1,0 +1,2750 @@
+.customize-pharmacy-ui-kit,
+.customize-pharmacy-ui-kit * {
+  box-sizing: border-box;
+}
+.customize-pharmacy-ui-kit {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 4266px;
+  position: relative;
+}
+.p-q {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 1728px;
+  height: 4266px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1728px;
+  height: 4266px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.section {
+  background: linear-gradient(
+    135deg,
+    rgba(239, 246, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(236, 254, 255, 1) 100%
+  );
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 748px;
+  position: relative;
+  overflow: hidden;
+}
+.container {
+  width: 1728px;
+  height: 748px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.container2 {
+  background: #bedbff;
+  border-radius: 16777200px;
+  opacity: 0.3;
+  width: 322.09px;
+  height: 322.09px;
+  position: absolute;
+  left: 1568.91px;
+  top: -164.3px;
+  filter: blur(64px);
+}
+.container3 {
+  background: #a2f4fd;
+  border-radius: 16777200px;
+  opacity: 0.3;
+  width: 300.1px;
+  height: 300.1px;
+  position: absolute;
+  left: -162.49px;
+  top: 610.39px;
+  filter: blur(64px);
+}
+.header {
+  background: rgba(255, 255, 255, 0.95);
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0px 0px 1px 0px;
+  padding: 16px 120px 1px 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1728px;
+  height: 73px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1),
+    0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 236.17px;
+  height: 40px;
+  position: relative;
+}
+.container4 {
+  flex-shrink: 0;
+  width: 39px;
+  height: 39px;
+  position: relative;
+}
+.chat-gpt-image-feb-16-2026-02-31-10-pm-1 {
+  border-radius: 2px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  left: 39px;
+  top: 39px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.text {
+  flex: 1;
+  height: 28px;
+  position: relative;
+}
+.shreeyash-medicals {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container5 {
+  flex-shrink: 0;
+  width: 361.48px;
+  height: 24px;
+  position: relative;
+}
+.link2 {
+  width: 44.81px;
+  height: 24px;
+  position: absolute;
+  left: 64.32px;
+  top: -0.5px;
+}
+.services {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.text2 {
+  background: #155dfc;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 26px;
+}
+.link3 {
+  width: 44.81px;
+  height: 24px;
+  position: absolute;
+  left: 160.67px;
+  top: 0px;
+}
+.about {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.link4 {
+  width: 59px;
+  height: 24px;
+  position: absolute;
+  left: 237.48px;
+  top: 0px;
+}
+.contact {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.container6 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 319.34px;
+  height: 36px;
+  position: relative;
+}
+.button {
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 148.67px;
+  height: 36px;
+  position: relative;
+}
+.vector {
+  width: 21.88px;
+  height: 21.88px;
+  position: absolute;
+  left: 0.34px;
+  top: 7px;
+  overflow: visible;
+}
+._91-940443280 {
+  color: #0a0a0a;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  position: absolute;
+  left: 27px;
+  top: 8.5px;
+}
+.button2 {
+  background: #00a63e;
+  border-radius: 8px;
+  flex: 1;
+  height: 36px;
+  position: relative;
+}
+.order-on-whats-app {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  position: absolute;
+  left: 12px;
+  top: 8.5px;
+}
+.container7 {
+  width: 1488px;
+  height: 540px;
+  position: absolute;
+  left: 120px;
+  top: 112px;
+}
+.container8 {
+  width: 720px;
+  height: 396.5px;
+  position: absolute;
+  left: 0px;
+  top: 71.75px;
+}
+.container9 {
+  background: #dcfce7;
+  border-radius: 16777200px;
+  width: 174px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 0.25px;
+}
+.icon {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  overflow: visible;
+}
+.text3 {
+  width: 134px;
+  height: 20px;
+  position: absolute;
+  left: 32px;
+  top: 8.25px;
+}
+.licensed-trusted {
+  color: #00a63e;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container10 {
+  width: 720px;
+  height: 188.5px;
+  position: absolute;
+  left: 0px;
+  top: 68px;
+}
+.heading-1 {
+  width: 720px;
+  height: 75px;
+  position: absolute;
+  left: 0px;
+  top: -10.75px;
+}
+.your-health-our-priority {
+  text-align: left;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 72px;
+  line-height: 95px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -10px;
+}
+.your-health-our-priority-span {
+  color: #101828;
+}
+.your-health-our-priority-span2 {
+  color: #00a63e;
+}
+.paragraph {
+  width: 512px;
+  height: 97.5px;
+  position: absolute;
+  left: 0px;
+  top: 250.25px;
+}
+.experience-compassionate-expert-healthcare-from-t {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 32.5px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 477px;
+}
+.container11 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 720px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 368.25px;
+}
+.button3 {
+  background: #00a63e;
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 217px;
+  height: 40px;
+  position: relative;
+  box-shadow: 0px 4px 6px -4px rgba(0, 166, 62, 0.3),
+    0px 10px 15px -3px rgba(21, 93, 252, 0.3);
+}
+.order-on-whats-app2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  position: absolute;
+  left: 15px;
+  top: 10.5px;
+}
+.container12 {
+  background: rgba(255, 255, 255, 0);
+  border-radius: 16px;
+  width: 720px;
+  height: 540px;
+  position: absolute;
+  left: 768px;
+  top: 16px;
+  box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.image-healthcare-professional-consulting-with-patient {
+  width: 720px;
+  height: 540px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.pexels-photo-7615562-1 {
+  width: 940px;
+  height: 627px;
+  position: absolute;
+  left: 852px;
+  top: 552px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 940/627;
+}
+.container13 {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 16px 16px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 230px;
+  height: 84px;
+  position: absolute;
+  left: 24px;
+  top: 432px;
+  box-shadow: 0px 8px 10px -6px rgba(0, 0, 0, 0.1),
+    0px 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+.container14 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 52px;
+  position: relative;
+}
+.container15 {
+  background: #dcfce7;
+  border-radius: 16777200px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.container16 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  height: 52px;
+  position: relative;
+}
+.paragraph2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 32px;
+  position: relative;
+}
+._98 {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.07px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.paragraph3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+.customer-satisfaction {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.section2 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(249, 250, 251, 1) 100%
+  );
+  padding: 80px 96px 0px 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 952px;
+  position: relative;
+}
+.container17 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 792px;
+  position: relative;
+}
+.container18 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 94px;
+  position: relative;
+}
+.heading-2 {
+  width: 1488px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.our-services {
+  color: #101828;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: 0.35px;
+  font-weight: 700;
+  position: absolute;
+  left: 589.81px;
+  top: 0.5px;
+}
+.paragraph4 {
+  width: 672px;
+  height: 30px;
+  position: absolute;
+  left: 408px;
+  top: 64px;
+}
+.comprehensive-healthcare-services-designed-around {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 29.25px;
+  font-weight: 400;
+  position: absolute;
+  left: 27.81px;
+  top: 0px;
+  width: 617px;
+}
+.container19 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 608px;
+  position: relative;
+}
+.container20 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container21 {
+  background: #dbeafe;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.heading-3 {
+  flex-shrink: 0;
+  width: 406.66px;
+  height: 28px;
+  position: relative;
+}
+.prescription-medicines {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.paragraph5 {
+  flex-shrink: 0;
+  width: 406.66px;
+  height: 52px;
+  position: relative;
+}
+.connect-with-board-certified-doctors-via-secure-vi {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 391px;
+}
+.container22 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 506.66px;
+  top: 0px;
+}
+.container23 {
+  background: #ffe2e2;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon4 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.otc-healthcare-products {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.book-appointments-24-7-with-our-intuitive-scheduli {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 385px;
+}
+.container24 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 1013.33px;
+  top: 0px;
+}
+.container25 {
+  background: #f3e8ff;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.baby-care-personal-care {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.get-prescriptions-sent-directly-to-your-preferred {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 346px;
+}
+.container26 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 0px;
+  top: 320px;
+}
+.container27 {
+  background: #ffedd4;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon6 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.surgical-supplement {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.access-healthcare-whenever-you-need-it-our-team-i {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 384px;
+}
+.container28 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 506.66px;
+  top: 320px;
+}
+.container29 {
+  background: #dcfce7;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon7 {
+  flex-shrink: 0;
+  width: 29px;
+  height: 29px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.homeopathy {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.your-health-data-is-protected-with-bank-level-encr {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 405px;
+}
+.container30 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 32px 0px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 474.66px;
+  height: 288px;
+  position: absolute;
+  left: 1013.33px;
+  top: 320px;
+}
+.container31 {
+  background: #cefafe;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  width: 56px;
+  position: relative;
+}
+.icon8 {
+  flex-shrink: 0;
+  width: 29px;
+  height: 29px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ayurvedic-medicines {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.manage-your-health-on-the-go-with-our-i-os-and-andr {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 401px;
+}
+.section3 {
+  background: #ffffff;
+  padding: 80px 120px 0px 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 806px;
+  position: relative;
+}
+.container32 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 120px;
+  position: relative;
+}
+.group-1000010958 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-73 {
+  background: rgba(42, 167, 255, 0.5);
+  border-radius: 50%;
+  width: 177.27px;
+  height: 177.27px;
+  position: absolute;
+  left: 217px;
+  top: 758.23px;
+  filter: blur(150px);
+}
+.ellipse-8 {
+  background: rgba(42, 167, 255, 0.7);
+  border-radius: 50%;
+  width: 177.27px;
+  height: 177.27px;
+  position: absolute;
+  left: 576.18px;
+  top: 490px;
+  filter: blur(150px);
+}
+.ellipse-7 {
+  background: rgba(42, 167, 255, 0.5);
+  border-radius: 50%;
+  width: 177.27px;
+  height: 177.27px;
+  position: absolute;
+  left: 605.88px;
+  top: 598.59px;
+  filter: blur(150px);
+}
+.ellipse-5 {
+  background: rgba(42, 167, 255, 0.5);
+  border-radius: 50%;
+  width: 177.27px;
+  height: 177.27px;
+  position: absolute;
+  left: 475.95px;
+  top: 758.23px;
+  filter: blur(150px);
+}
+.rectangle-651 {
+  background: linear-gradient(
+    81deg,
+    rgba(231, 240, 255, 1) 0%,
+    rgba(232, 241, 255, 0.47) 100%
+  );
+  width: 1728px;
+  height: 842px;
+  position: absolute;
+  left: -120px;
+  top: -88px;
+}
+.group-1000010959 {
+  position: absolute;
+  inset: 0;
+}
+.group-999 {
+  width: 535px;
+  height: 769px;
+  position: static;
+}
+.group-899 {
+  width: 535px;
+  height: 769px;
+  position: static;
+}
+.ellipse-3 {
+  background: #155dfc;
+  border-radius: 50%;
+  width: 473.41px;
+  height: 473.41px;
+  position: absolute;
+  left: 939.42px;
+  top: -45.01px;
+}
+.png-item-1939059-2 {
+  width: 535px;
+  height: 667px;
+  position: absolute;
+  left: 878px;
+  top: 56.99px;
+  object-fit: cover;
+}
+.group-1002 {
+  width: 265px;
+  height: 115px;
+  position: static;
+}
+.group-917 {
+  width: 265px;
+  height: 115px;
+  position: static;
+}
+.group-918 {
+  width: 265px;
+  height: 115px;
+  position: static;
+}
+.rectangle-9 {
+  background: rgba(246, 249, 255, 0.81);
+  border-radius: 30px;
+  width: 265px;
+  height: 115px;
+  position: absolute;
+  left: 745px;
+  top: 350px;
+  box-shadow: 0px 0px 29px 0px rgba(42, 167, 255, 0.16);
+  backdrop-filter: blur(12px);
+}
+.group-916 {
+  width: 30px;
+  height: 30px;
+  position: static;
+}
+.group-915 {
+  width: 30px;
+  height: 30px;
+  position: static;
+}
+.award-1 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 806px;
+  top: 396px;
+  overflow: hidden;
+}
+.medal-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.group-920 {
+  width: 209px;
+  height: 70px;
+  position: static;
+}
+.regular-checkup {
+  color: rgba(7, 0, 59, 0.8);
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 500;
+  position: absolute;
+  left: 863px;
+  top: 384px;
+  width: 118px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-919 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 772px;
+  top: 373px;
+  overflow: visible;
+}
+.svg-h-2-d-32016369 {
+  width: 51px;
+  height: 65px;
+  position: absolute;
+  left: 1233px;
+  top: calc(50% - 31px);
+  overflow: hidden;
+}
+.frame {
+  width: 51px;
+  height: 65px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  overflow: visible;
+}
+.div-elementor-widget-container {
+  background: rgba(246, 249, 255, 0.81);
+  border-radius: 30px;
+  width: 241.93px;
+  height: 104.59px;
+  position: absolute;
+  left: 1250px;
+  top: 562px;
+  box-shadow: 0px 0px 29px 0px rgba(42, 167, 255, 0.16);
+  overflow: hidden;
+  backdrop-filter: blur(12px);
+}
+._84-k {
+  color: #1b3c74;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 33.6px;
+  font-weight: 600;
+  position: absolute;
+  left: 81px;
+  top: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.happy-patients {
+  color: #77829d;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 83px;
+  top: 56.59px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg-h-2-d-63-a-39-c-21 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 22px;
+  top: calc(50% - 21px);
+  overflow: hidden;
+}
+.frame2 {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  overflow: visible;
+}
+.group-1001 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1000011426 {
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: -24px;
+  top: 123px;
+}
+.frame-1000011425 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.doctor-consultation {
+  text-align: left;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 72px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  width: 533px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.doctor-consultation-span {
+  color: #07003b;
+}
+.doctor-consultation-span2 {
+  color: #155dfc;
+}
+.connect-instantly-with-a-24-x-7-specialist-or-choose-to-video-visit-a-particular-doctor {
+  color: rgba(7, 0, 59, 0.75);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 170%;
+  font-weight: 400;
+  position: relative;
+  width: 497px;
+}
+.button4 {
+  background: #155dfc;
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 217px;
+  height: 40px;
+  position: relative;
+  box-shadow: 0px 10px 15px -3px rgba(21, 93, 252, 0.3);
+}
+.consult-now {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 500;
+  position: absolute;
+  left: 48px;
+  top: 10.5px;
+}
+.section4 {
+  background: #ffffff;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 610px;
+  position: relative;
+  overflow: hidden;
+}
+.container33 {
+  opacity: 0.05;
+  width: 1728px;
+  height: 610px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container34 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1536px;
+  height: 450px;
+  position: absolute;
+  left: 96px;
+  top: 80px;
+}
+.why-choose-us {
+  color: #101828;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: 0.35px;
+  font-weight: 700;
+  position: absolute;
+  left: 556.15px;
+  top: 0.5px;
+}
+.paragraph6 {
+  width: 672px;
+  height: 56px;
+  position: absolute;
+  left: 408px;
+  top: 64px;
+}
+.getting-started-is-simple-follow-these-four-easy {
+  color: #4a5565;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 400;
+  position: absolute;
+  left: 41.36px;
+  top: 0px;
+  width: 590px;
+}
+.container35 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: grid;
+  gap: 32px;
+  position: relative;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+.container36 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 2px;
+  height: 266px;
+  position: relative;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
+}
+.container37 {
+  width: 296px;
+  height: 198px;
+  position: absolute;
+  left: 26px;
+  top: 42px;
+}
+.container38 {
+  background: #dcfce7;
+  border-radius: 14px;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.icon9 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.heading-32 {
+  width: 296px;
+  height: 28px;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+}
+._100-genuine-medicines {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.paragraph7 {
+  width: 296px;
+  height: 78px;
+  position: absolute;
+  left: 0px;
+  top: 120px;
+}
+.sign-up-in-minutes-with-our-simple-registration-pr {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 293px;
+}
+.container39 {
+  background: #00a63e;
+  border-radius: 16777200px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: -14px;
+  top: -14px;
+  box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.1),
+    0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+._01 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.44px;
+  font-weight: 700;
+  position: relative;
+}
+.container40 {
+  background: linear-gradient(
+    90deg,
+    rgba(190, 219, 255, 1) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  width: 32px;
+  height: 2px;
+  position: absolute;
+  left: 330px;
+  top: 66px;
+}
+.container41 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 2px;
+  height: 266px;
+  position: relative;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+}
+.icon10 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.licensed-registered {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.choose-from-available-time-slots-that-work-for-you {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 277px;
+}
+._02 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.44px;
+  font-weight: 700;
+  position: relative;
+}
+.container42 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 2px;
+  height: 266px;
+  position: relative;
+  grid-column: 3 / span 1;
+  grid-row: 1 / span 1;
+}
+.icon11 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.personalized-care {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.connect-via-secure-video-call-with-board-certified {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 256px;
+}
+._03 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.44px;
+  font-weight: 700;
+  position: relative;
+}
+.container43 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 2px;
+  padding: 2px;
+  height: 266px;
+  position: relative;
+  grid-column: 4 / span 1;
+  grid-row: 1 / span 1;
+}
+.container44 {
+  width: 296px;
+  height: 172px;
+  position: absolute;
+  left: 26px;
+  top: 42px;
+}
+.icon12 {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  overflow: visible;
+}
+.express-local-delivery {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.paragraph8 {
+  width: 296px;
+  height: 52px;
+  position: absolute;
+  left: 0px;
+  top: 120px;
+}
+.receive-prescriptions-treatment-plans-and-follow {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 294px;
+}
+._04 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.44px;
+  font-weight: 700;
+  position: relative;
+}
+.section5 {
+  background: linear-gradient(
+    135.35deg,
+    rgba(0, 166, 62, 1) 0%,
+    rgba(0, 166, 62, 0.3) 100%
+  );
+  padding: 80px 0px 0px 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 687px;
+  position: relative;
+}
+.container45 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 527px;
+  position: relative;
+}
+.trusted-by-thousands {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: 0.35px;
+  font-weight: 700;
+  position: absolute;
+  left: 477.42px;
+  top: 0.5px;
+}
+.real-stories-from-real-patients-who-ve-transformed {
+  color: #eff6ff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.45px;
+  font-weight: 400;
+  position: absolute;
+  left: 46.41px;
+  top: 0px;
+  width: 580px;
+}
+.container46 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 343px;
+  position: relative;
+}
+.container47 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px;
+  padding: 1px;
+  width: 474.66px;
+  height: 343px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container48 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 408.66px;
+  height: 20px;
+  position: absolute;
+  left: 33px;
+  top: 33px;
+}
+.icon13 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon14 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon15 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon16 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon17 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.container49 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 408.66px;
+  height: 65px;
+  position: absolute;
+  left: 33px;
+  top: 248px;
+}
+.image-sarah-johnson {
+  border-radius: 16777200px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container50 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 120.63px;
+  height: 44px;
+  position: relative;
+}
+.paragraph9 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.priya-kulkarni {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.teacher {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.icon18 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 417.66px;
+  top: 25px;
+  overflow: visible;
+}
+.quote {
+  width: 408.66px;
+  height: 78px;
+  position: absolute;
+  left: 33px;
+  top: 93px;
+}
+.the-convenience-of-virtual-appointments-has-been {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 406px;
+}
+.container51 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px;
+  padding: 1px;
+  width: 474.66px;
+  height: 343px;
+  position: absolute;
+  left: 506.66px;
+  top: 0px;
+}
+.icon19 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon20 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon21 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon22 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon23 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.container52 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 408.66px;
+  height: 65px;
+  position: absolute;
+  left: 33px;
+  top: 245px;
+}
+.image-michael-chen {
+  border-radius: 16777200px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container53 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 120.59px;
+  height: 44px;
+  position: relative;
+}
+.rajesh-patil {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.business-owner {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.icon24 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 417.66px;
+  top: 25px;
+  overflow: visible;
+}
+.quote2 {
+  width: 408.66px;
+  height: 104px;
+  position: absolute;
+  left: 33px;
+  top: 93px;
+}
+.as-someone-managing-a-chronic-condition-having-2 {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 406px;
+}
+.container54 {
+  background: #ffffff;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px;
+  padding: 1px;
+  width: 474.66px;
+  height: 343px;
+  position: absolute;
+  left: 1013.33px;
+  top: 0px;
+}
+.icon25 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon26 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon27 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon28 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.icon29 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.container55 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  border-width: 1px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 408.66px;
+  height: 65px;
+  position: absolute;
+  left: 33px;
+  top: 244px;
+}
+.image-emily-rodriguez {
+  border-radius: 16777200px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container56 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 122.08px;
+  height: 44px;
+  position: relative;
+}
+.dr-pravin-patil {
+  color: #101828;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.31px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 155px;
+}
+.healthcare-professional {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+  width: 154px;
+}
+.icon30 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 417.66px;
+  top: 25px;
+  overflow: visible;
+}
+.the-mental-health-support-i-ve-received-has-been {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.31px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+  width: 394px;
+}
+.footer {
+  background: #101828;
+  padding: 64px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1728px;
+  height: 463px;
+  position: absolute;
+  left: 0px;
+  top: 3803px;
+}
+.container57 {
+  align-self: stretch;
+  flex-shrink: 0;
+  display: grid;
+  gap: 48px;
+  position: relative;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+.container58 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 260px;
+  position: relative;
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 1;
+}
+.container59 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.heading-33 {
+  flex-shrink: 0;
+  width: 197.3px;
+  height: 28px;
+  position: relative;
+}
+.shreeyash-medicals2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -0.5px;
+}
+.paragraph10 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 78px;
+  position: relative;
+}
+.your-trusted-pharmacy-in-ratnagiri-committed-to-g {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 266px;
+}
+.container60 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 260px;
+  position: relative;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+}
+.heading-4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 28px;
+  position: relative;
+}
+.contact-details {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.list-item {
+  flex-shrink: 0;
+  width: 384px;
+  height: 24px;
+  position: relative;
+}
+.icon31 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.text4 {
+  width: 227.91px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 0px;
+}
+.shreeyash-medicals-1957-shri-ram-ali-ratnagiri {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 302px;
+}
+.icon32 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.text5 {
+  width: 90.66px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 0px;
+}
+._91-9404432802 {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 126px;
+}
+.icon33 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: -15px;
+  overflow: visible;
+}
+.text6 {
+  width: 226.62px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: -17px;
+}
+.info-shreeyashmedicals-com {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 225px;
+}
+.container61 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 260px;
+  position: relative;
+  grid-column: 3 / span 1;
+  grid-row: 1 / span 1;
+}
+.store-timings {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.list2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 112px;
+  position: relative;
+}
+.list-item2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+}
+.container62 {
+  width: 272px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mon-sat {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container63 {
+  width: 272px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 20px;
+}
+._9-00-am-to-10-00-pm {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.list-item3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+}
+.sunday {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+._9-00-am-to-2-00-pm {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container64 {
+  width: 272px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+._5-00-pm-to-9-00-pm {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container65 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 260px;
+  position: relative;
+  grid-column: 4 / span 1;
+  grid-row: 1 / span 1;
+}
+.legal-information {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container66 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 216px;
+  position: relative;
+}
+.container67 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 96px;
+  position: relative;
+}
+.container68 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+.drug-license-no {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.list3 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+}
+.list-item4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+._20-mh-rat-61246 {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+._21-61247 {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+._20-c-61248 {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container69 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 44px;
+  position: relative;
+}
+.gstin-no {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+._27-acefs-9094-c-1-z {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.fssai-no {
+  color: #d1d5dc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.acefs-9094-c {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container70 {
+  border-style: solid;
+  border-color: #1e2939;
+  border-width: 1px 0px 0px 0px;
+  padding: 33px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 53px;
+  position: relative;
+}
+.container71 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+}
+.paragraph11 {
+  flex-shrink: 0;
+  width: 311.62px;
+  height: 20px;
+  position: relative;
+}
+._2026-shreeyash-medicals-all-rights-reserved {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0.5px;
+}
+.container72 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 332.89px;
+  height: 20px;
+  position: relative;
+}
+.link5 {
+  flex-shrink: 0;
+  width: 89.39px;
+  height: 20px;
+  position: relative;
+}
+.link6 {
+  flex: 1;
+  height: 20px;
+  position: relative;
+}
+.link7 {
+  flex-shrink: 0;
+  width: 87.01px;
+  height: 20px;
+  position: relative;
+}
+.terms-of-service {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.15px;
+  font-weight: 400;
+  position: absolute;
+  left: -24.99px;
+  top: 0.5px;
+}
