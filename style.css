@@ -394,7 +394,7 @@
   background: #00a63e;
   border-radius: 8px;
   flex-shrink: 0;
-  width: 217px;
+  width: 150px;
   height: 40px;
   position: relative;
   box-shadow: 0px 4px 6px -4px rgba(0, 166, 62, 0.3),
@@ -2339,7 +2339,19 @@
   left: 28px;
   top: 0px;
 }
-._91-9404432802 {
+._91-9404443280 {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 126px;
+}
+._91-9404443280 a {
   color: #99a1af;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -2378,6 +2390,19 @@
   top: -1px;
   width: 225px;
 }
+.footer-phone-shreeyashmedicals-com {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 225px;
+}
+
 .container61 {
   display: flex;
   flex-direction: column;
